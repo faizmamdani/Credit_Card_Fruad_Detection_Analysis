@@ -13,9 +13,9 @@
 * Solution :-The solution to the credit card fraud detection problem involves implementing a comprehensive and sophisticated Credit Card Fraud Detection System. Here are the key components and steps of the solution 1)Data Collection 2)Data Preprocessing 3)Feature Engineering 4)Real-Time Analysis etc
 
 * Model Applying :- Logistic Regression and Random ForestClassifier
-*
-*        **Our Machine Learning model's scores Accuracy = 93% F1-score = 93% Precision = 90% Recall = 95% **
 
-*        **Our Machine Learning model's scores Accuracy = 94% F1-score = 94% Precision = 90% Recall = 99% **
+*        **Our Machine Learning model LogisticRegression's Accuracy = 94% F1-score = 94% Precision = 90% Recall = 99% **
 
+
+         **Our Machine Learning model RandomForest Classifier's Accuracy = 93% F1-score = 93% Precision = 90% Recall = 95% **
 
