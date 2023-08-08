@@ -7,7 +7,7 @@
 
 * ![image](https://github.com/faizmamdani/Credit_Card_Fruad_Detection_Analysis/assets/135321547/8ae364e2-f25d-45d0-bb8b-c4c6d8920d66)
 
-* Note:- The Graph shows that the data is imbalanced
+* Note:- The Graph shows that the data is imbalanced so we will be using 'undersampling'
 
 
 * Solution :-The solution to the credit card fraud detection problem involves implementing a comprehensive and sophisticated Credit Card Fraud Detection System. Here are the key components and steps of the solution 1)Data Collection 2)Data Preprocessing 3)Feature Engineering 4)Real-Time Analysis etc
